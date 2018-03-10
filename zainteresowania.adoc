@@ -1,6 +1,6 @@
 # Moje zainteresowania
 
-TODO: Dodać widoczek, obrazek?
+*TODO:* _Dodać widoczek, obrazek?_
 
 This guide provides a gentle introduction to AsciiDoc, 
 a plain text documentation syntax and processor. 
