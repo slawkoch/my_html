@@ -1,0 +1,44 @@
+# Moje zainteresowania
+
+TODO: Dodać widoczek, obrazek?
+
+This guide provides a gentle introduction to AsciiDoc, 
+a plain text documentation syntax and processor. 
+This introduction is intended for anyone who wants 
+to reduce the effort required to write and publish content,
+whether for technical documentation, articles, web pages 
+or good ol'-fashioned prose.
+
+
+## Podrozdział
+
+Your adventure with AsciiDoc begins in your favorite text editor.
+
+
+### Podpodrozdział
+
+Writer or Google Docs. In fact, you shouldn’t use these programs 
+because they add cruft to your document (that you can’t see)
+and makes conversion tedious.
+
+## Programowanie w języku C
+
+Pierwszy program w C.
+[source,c]
+.hello_world.c
+----
+#include <stdio.h>
+int main() {
+  return 0;
+}
+----
+
+
+## Programowanie w języku Python
+
+Pierwszy program w C.
+[source,python]
+.hello_world.py
+----
+puts "hello, world"
+----
