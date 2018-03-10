@@ -15,11 +15,15 @@ or good ol'-fashioned prose.
 Your adventure with AsciiDoc begins in your favorite text editor.
 
 
-### Podpodrozdział
+## Praca w powłoce Bash
 
-Writer or Google Docs. In fact, you shouldn’t use these programs 
-because they add cruft to your document (that you can’t see)
-and makes conversion tedious.
+Początki były trudne.
+[source,bash]
+.Terminal
+----
+echo '"Sienkiewicz"', "'Krzyżacy'" # => "Sienkiewicz", 'Krzyżacy'
+----
+
 
 ## Programowanie w języku C
 
