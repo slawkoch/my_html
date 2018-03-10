@@ -1,3 +1,3 @@
-# my_html
-Tech infor
+# Mój HTML 
 
+Techniki internetowe.
