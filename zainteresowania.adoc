@@ -1,5 +1,7 @@
 # Moje zainteresowania
 
+http://gist.asciidoctor.org/?github-slawkoch%2Fmy_html%2F%2Fzainteresowania.adoc[Ładniejsza wersja HTML].
+
 *TODO:* _Dodać widoczek, obrazek?_
 
 This guide provides a gentle introduction to AsciiDoc, 
